@@ -1,0 +1,5 @@
+---
+default: -p prod -b chromium --headless false
+
+prod:
+  baseUrl: https://www.saucedemo.com
